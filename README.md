@@ -17,6 +17,6 @@ theano0.9.0<br />
 2.Run convolutional_network.py to classify the flower dataset into 7 classes.<br />
 
 Result<br />
-![image](https://github.com/changyq12/7_flower_cnn_tensorflow/raw/master/result.JPG)<br />
+![image](https://github.com/changyq12/7_flower_cnn_tensorflow/raw/master/result.jpg)<br />
 
 Any question,please contact me in changyq@pku.edu.cn.<br />
