@@ -3,9 +3,9 @@
 
 Use CNN based on Tensorflow, to classify the dataset(17 flowers).
 
-Got code help from: https://github.com/aymericdamien/TensorFlow-Examples.
+Got code help from: https://github.com/aymericdamien/TensorFlow-Examples
 
-Dataset from: http://www.robots.ox.ac.uk/~vgg/data/flowers/17/.
+Dataset from: http://www.robots.ox.ac.uk/~vgg/data/flowers/17/
 
 ## Dependencies
 tensorflow1.0
