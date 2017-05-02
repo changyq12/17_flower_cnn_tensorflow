@@ -1,5 +1,5 @@
 
-# 7_flower_cnn_tensorflow
+# 17_flower_cnn_tensorflow
 
 Use CNN based on Tensorflow, to classify the dataset(17 flowers).
 
